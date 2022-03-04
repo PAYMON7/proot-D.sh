@@ -4,13 +4,15 @@
 
 echo " _________________________________________"
 echo "|                                         |"
-echo "|          Facebook: metaverso negro      |"
-echo "| Script desenvolvido por meta-verso negro|"
+echo "|            Facebook:  paymon shell      |"
+echo "|_________________________________________|"
+echo "| Script desenvolvido por:  Paymon shell  |"
 echo "|_________________________________________|"
 
 echo "instalando proot-distro..."
 apt install proot-distro
-cd
+echo "instalando o proot-distro..."
+
 echo "PROOT-DISTRO INSTALADO"
 
 # perguntar qual sistema quer instalar
