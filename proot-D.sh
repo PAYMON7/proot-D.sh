@@ -8,6 +8,8 @@ echo "|            Facebook:  paymon shell      |"
 echo "|_________________________________________|"
 echo "| Script desenvolvido por:  Paymon shell  |"
 echo "|_________________________________________|"
+echo "|  GITHUB: https://github.com/PAYMON7     |"
+echo "|_________________________________________|"
 
 echo "instalando proot-distro..."
 apt install proot-distro
